@@ -1,6 +1,6 @@
 body {
 
-  background-image: url('backdrop.png');
+  background-image: url('/img/backdrop.png');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
@@ -17,5 +17,5 @@ body {
 }
 
 .info-item {
-    font-size: large;
+    font-size: larger;
 }
