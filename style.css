@@ -4,4 +4,9 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+  z-index: -1;
+}
+
+.homepage-container {
+    margin-top: 10% !important;
 }
