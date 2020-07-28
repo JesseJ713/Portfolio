@@ -1,5 +1,7 @@
 # Portfolio
 
+![Portfolio Homepage Screenshot](/img/Portfolio-Capture.PNG?raw=true "Portfolio")
+
 ## Description
 
 The goal of this project is to create a Portfolio that can be used over the course of the time spent at learning at UT and beyond.
