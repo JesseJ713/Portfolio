@@ -17,3 +17,5 @@ Added a form to the contact page in order for users to reach out with the intend
 Portfolio page is now included with placeholder images that include links and alt text. Accessibility works as well with images stacking in a clean vertical line as screen becomes smaller.
 
 Included folders for more organization within the files. Repathed all existing pathways and tested all for success. Files look much cleaner!
+
+Finishing up first stages of requirements by filling in some HTML semantics where necessary. 
