@@ -4,7 +4,7 @@
 
 ## Description
 
-The goal of this project is to create a Portfolio that can be used over the course of the time spent at learning at UT and beyond.
+The goal of this project is to create a Portfolio that can be used over the course of the time spent learning at UT and beyond.
 The Portfolio will exemplify a homepage, contact page, and a project page.
 HTML, CSS, and Bootstrap will be utilized in the first main iteration.
 
